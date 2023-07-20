@@ -81,7 +81,7 @@ body {
   color: hsl(179, 100%, 13%);
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 1200px) {
   .card-columns {
     display: flex;
     flex-direction: row;
